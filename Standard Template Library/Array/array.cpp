@@ -34,22 +34,3 @@ int main()
     cout << myarray1.at(2) <<endl;
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
